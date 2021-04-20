@@ -1,0 +1,20 @@
+{
+		"name": "PropHunt",
+		"version": "1.0",
+		"sharedassets": "*.*",
+
+		"depends": 
+		[
+			"base",
+			"rust"
+		],
+
+		"gamemodes":
+		[
+				{
+						"name": "PropHunt",
+						"title": "PropHunt",
+						"description": "Something like hide and seek. Where hunters are looking for players who turn into props. You need to be careful because for the wrong find, damage will be done"
+				}
+		]
+}
